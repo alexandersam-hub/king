@@ -1,0 +1,21 @@
+.wrapper{
+    background-color: red;
+    padding: 15px;
+    min-width: 1024px;
+}
+.link{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin: 5px 10px;
+    padding: 5px 10px;
+    border:2px solid white;
+    border-radius: 10px;
+    background-color: #de0a0a;
+    min-width: 70px;
+    text-align: center;
+}
+.link:hover{
+    background-color: #ea5757;
+}
